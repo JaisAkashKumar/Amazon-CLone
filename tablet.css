@@ -1,0 +1,38 @@
+.navbar{
+    flex-direction: column;
+    height: auto;
+    position: relative;
+}
+/* .nav-left{
+     width:350px;
+}  */
+.nav-search{
+     justify-content: center;
+     margin-bottom: 15px;
+     margin-top: 0px;
+}
+.nav-right{
+    position: absolute;
+    right: 0%;
+    width: 400px;
+    margin-top: 10px;
+}
+.panel-options{
+    grid-gap: 10px;
+    width: 55%;
+}
+.hero-section {
+    height: 300px;
+}
+.hero-msg{
+    height: 25px;
+    width: 95%;
+    font-size: 0.7rem;
+}
+.box h2{
+    font-size: 1.2rem;
+}
+.box{
+    height:55%;
+    width:30%;
+}

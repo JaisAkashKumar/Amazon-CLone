@@ -1,0 +1,89 @@
+.navbar{
+    flex-direction: column;
+    height: auto;
+    position: relative;
+    font-size: 0.85rem;
+}
+/* .nav-left{
+     width:350px;
+}  */
+.nav-location{
+    display: none;
+}
+.nav-search{
+     justify-content: center;
+     margin-bottom: 15px;
+}
+.nav-right{
+    position: absolute;
+    right: 0%;
+    width: 250px;
+    margin-top: 10px;
+}
+.nav-logo img{
+    height: 50px;
+    width:100px;
+}
+.nav-one{
+    font-size: 10px;
+    font-weight: 200;
+}
+.nav-two{
+    font-size: 12px;
+    font-weight: 500px;
+}
+.nav-search{
+    display:flex;
+    /* height: 40px; */
+    height:25px;
+    width: 90%;
+    /* justify-content: center; */
+    margin:auto;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+.panel-all{
+    font-size: 0.95rem;
+}
+.panel-options{
+    display: flex;
+    width: 80%;
+    grid-gap: 10px;
+    font-size:0.75rem;
+}
+.deals{
+    display: none;
+}
+.hero-section{
+    background: url("Amazon_Images/hero_image.jpg") ;
+    background-size: cover;
+    height: 200px;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items:end;
+}
+.hero-msg{
+  display: none;
+}
+.box h2{
+    font-size: 1rem;
+}
+.box{
+    height:55%;
+    width:60%;
+}
+.panel-2 ul p{
+    margin-left:4px;
+    font-size: 0.85rem;
+    font-weight: bold;
+    /* padding-top: 25px; */
+    padding-bottom: 15px;
+}
+.panel-2 a{
+    padding: 5px;
+    font-size: 0.75rem;
+    display: block;
+    color: #dddddd;
+    text-decoration: none;
+}
