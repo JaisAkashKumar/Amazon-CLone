@@ -1,1 +1,1 @@
-# Amazon-Clone
+# Amazon-Frontend (simple UI)
